@@ -17,7 +17,7 @@ Associate Notes with a personal account.
 ## Technologies
 
 | Backend | Database | Frontend |
-|-------------|--------------|--------------|
+|---------|--------------|--------------|
 | Python | SQLite | CSS
 | Flask |         | HTML
 | Flask-SQLAlchemy| | Bootstrap |
