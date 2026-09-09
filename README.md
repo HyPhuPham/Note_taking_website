@@ -24,6 +24,6 @@ User account registration
 | Flask-Login      |          | JavaScript |
 
 ## Project Structure
-'''
+```
 Note_taking_website/ │ ├── website/ │ ├── __init__.py │ ├── auth.py │ ├── models.py │ ├── views.py │ │ │ ├── templates/ │ │ ├── base.html │ │ ├── home.html │ │ ├── login.html │ │ └── sign_up.html │ │ │ └── static/ │ ├── main.py ├── requirements.txt └── README.md
-'''
+```
