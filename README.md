@@ -1,4 +1,4 @@
-###Note-Taking Website
+### Note-Taking Website
 
 A full-stack web application built with Python (Django framework) and Flask. 
 The application allows users to create an account, securely log in, and manage individual notes on a simple web interface
@@ -6,7 +6,7 @@ The application allows users to create an account, securely log in, and manage i
 This project was developed to practice full-stack web development concepts, including authentication, 
 database management, Flask routing, and application organization using Blueprints and the application factory pattern.
 
-##Features
+## Features
 
 User account registration
 User login and logout
@@ -16,18 +16,18 @@ Save notes in the database
 Delete notes
 Associate Notes with a personal account.
 
-##Technologies
+## Technologies
 
-#Backend
+# Backend
 * Python
 * Flask
 * Flask-SQLAlchemy
 * Flask-Login
 
-#Database
+# Database
 *SQLite
 
-#Frontend
+# Frontend
 *HTML
 *CSS
 *Bootstrap
