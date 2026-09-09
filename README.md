@@ -7,12 +7,12 @@ This project was developed to practice full-stack web development concepts, incl
 ## Features
 
 User account registration
-User login and logout
-Password authentication
-Create personal notes
-Save notes in the database
-Delete notes
-Associate Notes with a personal account.
+- User login and logout
+- Password authentication
+- Create personal notes
+- Save notes in the database
+- Delete notes
+- Associate Notes with a personal account.
 
 ## Technologies
 
