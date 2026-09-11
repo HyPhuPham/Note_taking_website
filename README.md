@@ -40,8 +40,8 @@ Note_taking_website/
 │     └── static/
 |          └── index.js
 │
-├── main.py
-└──  requirements.txt
+└── main.py
+
 ```
 
 ### Run the project
@@ -49,8 +49,8 @@ Note_taking_website/
 2 - Ensure Flask is installed for the project
 ```
 TO INSTALL FLASK
-Run: 'python -m pip install flask' in PowerShell system
-Also run: 'python -m pip install flask flask-sqlalchemy flask-login'
+- Run: 'python -m pip install flask' in PowerShell system
+- Also run: 'python -m pip install flask flask-sqlalchemy flask-login'
 ```
 3 - Locate and run the file named main.py 
 4 - In the terminal, there is a list of code lines as presented
