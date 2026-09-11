@@ -49,8 +49,8 @@ Note_taking_website/
 2 - Ensure Flask is installed for the project
 ```
 TO INSTALL FLASK
-- Run these commands:
-       'python -m pip install flask' in PowerShell system
+- Run these commands in PowerShell:
+       'python -m pip install flask' 
        'python -m pip install flask flask-sqlalchemy flask-login'
 ```
 3 - Locate and run the file named main.py 
