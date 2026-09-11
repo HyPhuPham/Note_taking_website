@@ -20,6 +20,7 @@ User account registration
 | Flask            |          | HTML
 | Flask-SQLAlchemy |          | Bootstrap  |
 | Flask-Login      |          | JavaScript |
++------------------------------------------+
 
 ## Project Structure
 ```
